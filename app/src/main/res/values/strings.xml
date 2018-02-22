@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+    <string name="tabQuarto">Quarto</string>
+    <string name="tabSala">Sala</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="temperatura">Temperatura</string>
+    <string name="luzes">Luzes</string>
+    <string name="tempValue">0°C</string>
+    <string name="umidade">Umidade</string>
+    <string name="umidadeValue">0</string>
+    <string name="luz">Luz</string>
+    <string name="tv">Tv</string>
+    <string name="canal">Canal</string>
+    <string name="_0_c">0 °C</string>
+    <string name="_0">0</string>
+    <string name="ar_condicionado">Ar-Condicionado</string>
+
+
+</resources>
